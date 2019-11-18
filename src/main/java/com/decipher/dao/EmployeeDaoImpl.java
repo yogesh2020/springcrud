@@ -100,6 +100,10 @@ return collection.find(query).count();
 
 	}
 
+	/**
+	 *
+	 * @param roll roll
+	 */
 	@Override
 	public void deletedoc(String roll)
 	{
